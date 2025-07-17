@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Alice",
+        "borrowed_items": [
+            "101"
+        ],
+        "reserved_items": []
+    },
+    {
+        "id": "2",
+        "name": "Bob",
+        "borrowed_items": [],
+        "reserved_items": [
+            "102"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Charlie",
+        "borrowed_items": [
+            "103"
+        ],
+        "reserved_items": [
+            "104"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Diana",
+        "borrowed_items": [],
+        "reserved_items": []
+    },
+    {
+        "id": "5",
+        "name": "Eve",
+        "borrowed_items": [
+            "105"
+        ],
+        "reserved_items": [
+            "105"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "mona",
+        "borrowed_items": [],
+        "reserved_items": []
+    },
+    {
+        "id": 7,
+        "name": "ola",
+        "borrowed_items": [],
+        "reserved_items": []
+    }
+]
